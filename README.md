@@ -1,2 +1,2 @@
-# IntroComputerScience
+# algorithms-exercises
 Created with CodeSandbox
